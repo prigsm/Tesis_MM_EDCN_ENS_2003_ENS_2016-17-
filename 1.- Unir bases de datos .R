@@ -5,7 +5,7 @@
 #CARGO LIBRERÍAS : ----
 library(tidyverse)
 library(readlx)
-e
+
 #______________________________________________________________________________#
 # IMPORTO bases de datos:
 # Variable MM compartida por Álvaro (2022):
